@@ -30,7 +30,7 @@ This guide provides step-by-step instructions for installing Git and setting up 
   ```sh
   git --version
 
-# Setting Up a Local and Remote Repository in Git  
+# Setting Up a Local Repository in Git  
 
 ## Local Repository in Git  
 
